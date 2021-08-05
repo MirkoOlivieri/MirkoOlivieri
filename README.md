@@ -22,7 +22,7 @@
 
 ## 📬 Get in touch
 
-- Web: [coming soon]
+- Web: https://mirkoolivieri.github.io/
 - LinkedIn: www.linkedin.com/in/mirkoolivieri
 - Twitter: twitter.com/Mirko54726946
 - Email: mirkoolivieri22@yahoo.com
