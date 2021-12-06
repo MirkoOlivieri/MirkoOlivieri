@@ -5,7 +5,7 @@
 - 👀 I’m currently working on Java projects
 - 🦀 I’m currently learning Spring Framework
 - 💬 Ask me about anything
-- 👨‍💻 MacOS user | Distro: Big Sur
+- 👨‍💻 MacOS user | Distro: Monterey
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
